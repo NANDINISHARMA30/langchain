@@ -84,5 +84,4 @@ LangChain helps developers build applications powered by LLMs through a standard
 - [LangChain Academy](https://academy.langchain.com/) – Comprehensive, free courses on LangChain libraries and products, made by the LangChain team.
 
 - LLM's Base should be made
-- 
 
